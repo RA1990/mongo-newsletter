@@ -2,7 +2,7 @@
 
 ## Tech Stack
 
-- Zurb foundation email frame work
+- Zurb foundation emailframe work
 - Adobe
 - HTML
 - Sass
