@@ -1,4 +1,4 @@
-# apple transactional email
+# newsletter email
 
 ## Tech Stack
 
